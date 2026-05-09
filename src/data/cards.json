@@ -1,0 +1,92 @@
+{
+    "cards": [
+        {
+            "title": "Appliances for your home | Up to 55% off",
+            "linkText": "See more",
+            "items": [
+                {
+                    "img": "/assets/images/home-page/img-1.jpg",
+                    "label": "Air conditioners"
+                },
+                {
+                    "img": "/assets/images/home-page/img-2.jpg",
+                    "label": "Refrigerators"
+                },
+                {
+                    "img": "/assets/images/home-page/img-3.jpg",
+                    "label": "Microwaves"
+                },
+                {
+                    "img": "/assets/images/home-page/img-4.jpg",
+                    "label": "Washing machines"
+                }
+            ]
+        },
+        {
+            "title": "Bulk order discounts + Up to 18% GST savings",
+            "linkText": "Shop now",
+            "items": [
+                {
+                    "img": "/assets/images/home-page/img-5.jpg",
+                    "label": "Laptops"
+                },
+                {
+                    "img": "/assets/images/home-page/img-6.jpg",
+                    "label": "Kitchen appliances"
+                },
+                {
+                    "img": "/assets/images/home-page/img-7.jpg",
+                    "label": "Office furniture"
+                },
+                {
+                    "img": "/assets/images/home-page/img-8.jpg",
+                    "label": "Business supplies"
+                }
+            ]
+        },
+        {
+            "title": "Starting ₹49 | Deals on home essentials",
+            "linkText": "Explore all",
+            "items": [
+                {
+                    "img": "/assets/images/home-page/img-1.jpg",
+                    "label": "Air conditioners"
+                },
+                {
+                    "img": "/assets/images/home-page/img-2.jpg",
+                    "label": "Refrigerators"
+                },
+                {
+                    "img": "/assets/images/home-page/img-3.jpg",
+                    "label": "Microwaves"
+                },
+                {
+                    "img": "/assets/images/home-page/img-4.jpg",
+                    "label": "Washing machines"
+                }
+            ]
+        },
+        {
+            "title": "Automotive essentials | Up to 60% off",
+            "linkText": "See more",
+            "items": [
+                {
+                    "img": "/assets/images/home-page/img-5.jpg",
+                    "label": "Laptops"
+                },
+                {
+                    "img": "/assets/images/home-page/img-6.jpg",
+                    "label": "Kitchen appliances"
+                },
+                {
+                    "img": "/assets/images/home-page/img-7.jpg",
+                    "label": "Office furniture"
+                },
+                {
+                    "img": "/assets/images/home-page/img-8.jpg",
+                    "label": "Business supplies"
+                }
+            ]
+        }
+    ]
+}
